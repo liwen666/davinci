@@ -359,9 +359,14 @@
             <artifactId>commons-collections4</artifactId>
             <version>4.3</version>
         </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.pivotal</groupId>-->
+            <!--<artifactId>greenplum-jdbc</artifactId>-->
+            <!--<version>5.18.0</version>-->
+        <!--</dependency>-->
         <dependency>
-            <groupId>com.pivotal</groupId>
-            <artifactId>greenplum-jdbc</artifactId>
+            <groupId>com.pivotal.greenplum</groupId>
+            <artifactId>greenplum</artifactId>
             <version>5.18.0</version>
         </dependency>
         <dependency>
